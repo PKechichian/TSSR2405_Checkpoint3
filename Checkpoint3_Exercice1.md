@@ -70,4 +70,15 @@
 
 ### Q.1.3.1
 
+**Mise place d'une GPO de mappage de disque**
+
+![image](https://github.com/user-attachments/assets/d3c7cbf8-d750-4d24-b63d-ce928510d2ec)
+
+**Ajouter un nouveau disque**
+
+![image](https://github.com/user-attachments/assets/2cb52a64-e6d4-42f9-aff5-104467469e82)
+
+![image](https://github.com/user-attachments/assets/c7c34eb8-1079-4b40-8e82-940894774bd8)
+
+**Répéter l'opération avec le deuxième disque**
 
