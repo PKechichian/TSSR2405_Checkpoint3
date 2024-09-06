@@ -129,9 +129,9 @@
 **Ouverture des ports 9101 à 9103 pour Bareos**
 
 ```
-sudo nft add rule inet inet_filter_table input tcp dport 9101 accept
-sudo nft add rule inet inet_filter_table input tcp dport 9102 accept
-sudo nft add rule inet inet_filter_table input tcp dport 9103 accept
+nft add rule inet inet_filter_table input tcp dport 9101 accept
+nft add rule inet inet_filter_table input tcp dport 9102 accept
+nft add rule inet inet_filter_table input tcp dport 9103 accept
 ```
 
 ---
